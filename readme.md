@@ -30,6 +30,7 @@ http://www.wxapp-union.com/
 
 ---在线制作平台---
 http://www.coolsite360.com
+http://www.jisuapp.cn/
 
 ---开发语言---
 1.WXML（HTML5）
